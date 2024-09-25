@@ -4,6 +4,6 @@
 
 作業網站:https://github.com/mdecad2024/hw-Linjiahong41223125
 
-作業倉儲:https://hw-Linjiahong41223125/cad2024
+作業倉儲:https://mdecad2024.github.io/hw-Linjiahong41223125/
 
 其他資訊:好痛苦
